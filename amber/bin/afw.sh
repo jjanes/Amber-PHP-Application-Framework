@@ -1,0 +1,1 @@
+php command.awf.php $*
